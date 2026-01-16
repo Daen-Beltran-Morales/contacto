@@ -14,4 +14,5 @@ file_put_contents('mensajes.txt', $registro, FILE_APPEND);
 echo '<h2>Mensaje enviado correctamente</h2>';
 echo '<a href="index.php">Volver</a>';
 }
+
 ?>
