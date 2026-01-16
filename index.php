@@ -12,7 +12,7 @@
                 <label>Nombre</label>
                 <input type="text" name="nombre" required>
                 <label>Correo</label>
-                <input type="email" name="correo" required>
+                <input type="email" name="correo - hola" required>
                 
                 <label>Mensaje</label>
                 <textarea name="mensaje" required></textarea>
